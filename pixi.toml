@@ -1,0 +1,15 @@
+[workspace]
+authors = ["Itthi Chatnuntawech <ichatnun@gmail.com>"]
+channels = ["conda-forge"]
+name = "brainCodeCamp2026"
+platforms = ["osx-64"]
+version = "0.1.0"
+
+[tasks]
+serve = "python -m http.server --directory _build/html"
+
+[dependencies]
+python = "3.10.*"
+
+[pypi-dependencies]
+jupyter-book = "<2.0"
