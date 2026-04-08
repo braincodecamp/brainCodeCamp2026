@@ -66,7 +66,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/thanaphon_suwannaphong.jpeg" class="card-img-top" alt="thanaphon suwannaphong">
+            <img src="/img-staff/thanaphon_suwannaphong.jpg" class="card-img-top" alt="thanaphon suwannaphong">
             <div class="card-body">
                 <h5 class="card-title m-0">ธนาพร สุวรรณพงศ์ (ว่าน)</h5>
                 <p class="card-text">

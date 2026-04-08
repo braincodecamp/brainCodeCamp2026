@@ -6,7 +6,10 @@ platforms = ["osx-64"]
 version = "0.1.0"
 
 [tasks]
+clean = "jupyter-book clean ."
+build = "jupyter-book build ."
 serve = "python -m http.server --directory _build/html 8080"
+deploy = "firebase deploy --only hosting:course2026-braincodecamp"
 
 [dependencies]
 python = "3.10.*"
