@@ -47,7 +47,7 @@
                 <h5 class="card-title m-0">ปชญา สายลมุล (ปอ)</h5>
                 <p class="card-text">
                     Pachaya Sailamul<br/>
-                    Ph.D. in Neuroscience
+                    Ph.D. in Cognitive Science, Computational Neuroscience
                 </p>
             </div>
         </div>
@@ -83,7 +83,7 @@
 <div class="row row-cols-1 row-cols-md-3 g-2">
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/waragon_phusuwan.jpg" class="card-img-top" alt="waragon_phusuwan">
+            <img src="/img-staff/waragon_phusuwan.jpg" class="card-img-top" alt="waragon phusuwan">
             <div class="card-body">
                 <h5 class="card-title m-0">วรากร ภู่สุวรรณ (มอส)</h5>
                 <p class="card-text">
@@ -95,7 +95,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/setthanan_jarukasemkit.jpeg" class="card-img-top" alt="setthanan_jarukasemkit">
+            <img src="/img-staff/setthanan_jarukasemkit.jpeg" class="card-img-top" alt="setthanan jarukasemkit">
             <div class="card-body">
                 <h5 class="card-title m-0">เสฏฐนันท์ จารุเกษมกิจ (โจ)</h5>
                 <p class="card-text">
@@ -107,7 +107,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/maytus_piriyajitakonkij.jpeg" class="card-img-top" alt="maytus_piriyajitakonkij">
+            <img src="/img-staff/maytus_piriyajitakonkij.jpeg" class="card-img-top" alt="maytus piriyajitakonkij">
             <div class="card-body">
                 <h5 class="card-title m-0">เมธัส พิริยจิตรกรกิจ (โม)</h5>
                 <p class="card-text">
@@ -119,19 +119,19 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/Korrawiz_Chotayapa.jpeg" class="card-img-top" alt="korrawiz_chotayapa">
+            <img src="/img-staff/Korrawiz_Chotayapa.jpeg" class="card-img-top" alt="korrawiz chotayapa">
             <div class="card-body">
-                <h5 class="card-title m-0">กรวิชญ์  โชตยาภา (อ๋อง)</h5>
+                <h5 class="card-title m-0">กรวิชญ์ โชตยาภา (อ๋อง)</h5>
                 <p class="card-text">
                     Korrawiz Chotayapa <br/>
-                    BCs. in Biomedical Engineer
+                    B.Sc. in Biomedical Engineering
                 </p>
             </div>
         </div>
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/chayanon-atthapak.jpeg" class="card-img-top" alt="chayanon_atthapak">
+            <img src="/img-staff/chayanon-atthapak.jpeg" class="card-img-top" alt="chayanon atthapak">
             <div class="card-body">
                 <h5 class="card-title m-0">ชญานนท์ อรรถปักษ์ (ออม)</h5>
                 <p class="card-text">
@@ -143,7 +143,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/prapasiri_sawetsuttipan.jpg" class="card-img-top" alt="prapasiri_sawetsuttipan">
+            <img src="/img-staff/prapasiri_sawetsuttipan.jpg" class="card-img-top" alt="prapasiri sawetsuttipan">
             <div class="card-body">
                 <h5 class="card-title m-0">ประภาสิริ เศวตสุทธิพันธ์ (โบนัส)</h5>
                 <p class="card-text">
@@ -165,9 +165,57 @@
             </div>
         </div>
     </div>
+        <div class="col">
+        <div class="card staff-image-container">
+            <img src="/img-staff/nithit-singtokum.jpg" class="card-img-top" alt="nithit singtokum">
+            <div class="card-body">
+                <h5 class="card-title m-0">นิธิศ สิงห์โตขำ (แบงค์)</h5>
+                <p class="card-text">
+                    Nithit Singtokum<br/>
+                    M.D. in Medicine<br/>
+                </p>
+            </div>
+        </div>
+    </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/apinan-sanongsin.jpg" class="card-img-top" alt="">
+            <img src="/img-staff/thanadej-rattanakornphan.jpg" class="card-img-top" alt="thanadej rattanakornphan">
+            <div class="card-body">
+                <h5 class="card-title m-0">ธนเดช รัตนกรพันธ์ (โบนัส)</h5>
+                <p class="card-text">
+                    Thanadej Rattanakornphan<br/>
+                    M.Eng. (Student) in Computer Engineering<br/>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card staff-image-container">
+            <img src="/img-staff/sasin-treeratana.jpg" class="card-img-top" alt="sasin treeratana">
+            <div class="card-body">
+                <h5 class="card-title m-0">ศศินทร์ ตรีรัตน์ (เจมส์)</h5>
+                <p class="card-text">
+                    Sasin Treeratana<br/>
+                    M.D. in Medicine<br/>
+                </p>
+            </div>
+        </div>
+    </div>
+        <div class="col">
+        <div class="card staff-image-container">
+            <img src="/img-staff/chayanon-kitkana.jpg" class="card-img-top" alt="chayanon kitkana">
+            <div class="card-body">
+                <h5 class="card-title m-0">ชญานนท์ กิจคณะ (ชาลี)</h5>
+                <p class="card-text">
+                    Chayanon Kitkana<br/>
+                    M.Sc. (Student) in Neuroscience<br/>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card staff-image-container">
+            <img src="/img-staff/apinan-sanongsin.jpg" class="card-img-top" alt="apinan sanongsin">
             <div class="card-body">
                 <h5 class="card-title m-0">อภินันท์ สนองสินธุ์ (โจ๊ก)</h5>
                 <p class="card-text">
@@ -180,7 +228,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/jatupong-oboun.jpg" class="card-img-top" alt="">
+            <img src="/img-staff/jatupong-oboun.jpg" class="card-img-top" alt="jatupong oboun">
             <div class="card-body">
                 <h5 class="card-title m-0">จตุพงศ์ อบอุ่น (มาร์ค)</h5>
                 <p class="card-text">
@@ -193,7 +241,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/punyawat-prachongkij.jpg" class="card-img-top" alt="">
+            <img src="/img-staff/punyawat-prachongkij.jpg" class="card-img-top" alt="punyawat prachongkij">
             <div class="card-body">
                 <h5 class="card-title m-0">ปุณยวัจน์ ประจงกิจ (หมี)</h5>
                 <p class="card-text">
@@ -206,49 +254,13 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/thakdanai-sirisombat.jpg" class="card-img-top" alt="">
+            <img src="/img-staff/thakdanai-sirisombat.jpg" class="card-img-top" alt="thakdanai sirisombat">
             <div class="card-body">
                 <h5 class="card-title m-0">ทักษ์ดนัย ศิริสมบัติ (ฟีฟ่า)</h5>
                 <p class="card-text">
                     Thakdanai Sirisombat<br/>
                     B.E. in Robotics and Automation Engineering<br/>
                     BCC 2024 (รุ่นที่ 2)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card staff-image-container">
-            <img src="/img-staff/nithit-singtokum.jpg" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title m-0">นิธิศ สิงห์โตขำ (แบงค์)</h5>
-                <p class="card-text">
-                    Nithit Singtokum<br/>
-                    M.D. in Medicine<br/>
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card staff-image-container">
-            <img src="/img-staff/thanadej-rattanakornphan.jpg" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title m-0">ธนเดช รัตนกรพันธ์ (โบนัส)</h5>
-                <p class="card-text">
-                    Thanadej Rattanakornphan<br/>
-                    M.Eng. (Student) in Computer Engineering<br/>
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card staff-image-container">
-            <img src="/img-staff/sasin-treeratana.jpg" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title m-0">ศศินทร์ ตรีรัตน์ (เจมส์)</h5>
-                <p class="card-text">
-                    Sasin Treeratana<br/>
-                    M.D. in Medicine<br/>
                 </p>
             </div>
         </div>

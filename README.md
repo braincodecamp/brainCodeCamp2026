@@ -26,6 +26,7 @@ From the project root, run:
 ```bash
 pixi run serve
 ```
+Then, go to a web browser and open http://localhost:8080.
 
 ### Option 2: VS Code Live Server
 1. Change directory in VS Code to `_build/html`
