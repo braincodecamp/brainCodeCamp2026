@@ -120,5 +120,5 @@
   - ได้รับฟังความคิดเห็นจากเพื่อน ๆ และ mentors ซึ่งอาจเป็นประโยชน์ต่อการทำโปรเจค
   - ทีมผู้จัดงานสามารถหากลุ่มที่เหมาะสมให้แก่ผู้นำเสนอได้อย่างมีประสิทธิภาพมากยิ่งขึ้น (จะมีการจัดกลุ่มใหม่หลังจาก On-site Meetup ตามความสนใจของผู้เรียนและความเชี่ยวชาญของ TA)
   - ได้รับโอกาส**ชิงรางวัลจากการจับฉลากในวัน On-site Meetup** โดยจะมีรางวัลรวมไม่น้อยกว่า 3 รางวัล
-  - ได้รับ 🎖️ ตราประทับด้านการสื่อสาร (Distinction in Collaborative Communication) ซึ่งเป็นการยกระดับ certificate ที่จะได้รับไปสู่ระดับที่สูงขึ้น (สามารถดูรายละเอียดเพิ่มเติมใน [Graduation Requirements](/GeneralInfo/graduation_requirements.md))
+  - ได้รับ 🎖️ **ตราประทับด้านการสื่อสาร (Distinction in Collaborative Communication)** ซึ่งเป็นการยกระดับ certificate ที่จะได้รับไปสู่ระดับที่สูงขึ้น (สามารถดูรายละเอียดเพิ่มเติมใน [Graduation Requirements](/GeneralInfo/graduation_requirements.md))
 
