@@ -42,7 +42,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/pachaya_sailamul.jpeg" class="card-img-top" alt="pachaya sailamul">
+            <img src="/img-staff/pachaya_sailamul.jpg" class="card-img-top" alt="pachaya sailamul">
             <div class="card-body">
                 <h5 class="card-title m-0">ปชญา สายลมุล (ปอ)</h5>
                 <p class="card-text">
@@ -54,7 +54,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/kantapon_wiboonsaksakul.jpeg" class="card-img-top" alt="kantapon wiboonsaksakul">
+            <img src="/img-staff/kantapon_wiboonsaksakul.jpg" class="card-img-top" alt="kantapon wiboonsaksakul">
             <div class="card-body">
                 <h5 class="card-title m-0">กันตภณ วิบูลย์ศักดิ์สกุล (ปัม)</h5>
                 <p class="card-text">
