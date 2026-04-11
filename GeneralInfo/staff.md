@@ -59,7 +59,7 @@
                 <h5 class="card-title m-0">กันตภณ วิบูลย์ศักดิ์สกุล (ปัม)</h5>
                 <p class="card-text">
                     Kantapon Wiboonsaksakul<br/>
-                    Ph.D. in Biomedical Engineering, Computational Neuroscience
+                    Ph.D. in Biomedical Engineering, Neurophysiology and Systems Neuroscience
                 </p>
             </div>
         </div>
