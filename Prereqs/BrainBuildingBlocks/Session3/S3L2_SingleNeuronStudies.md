@@ -10,7 +10,7 @@
 
 **Lalitta Suriya-Arunroj**
 
-National Primate Research Center of Thailand
+Faculty of Medicine
 
 Chulalongkorn University
 
