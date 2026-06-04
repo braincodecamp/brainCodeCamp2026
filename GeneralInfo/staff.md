@@ -47,7 +47,8 @@
                 <h5 class="card-title m-0">ปชญา สายลมุล (ปอ)</h5>
                 <p class="card-text">
                     Pachaya Sailamul<br/>
-                    Ph.D. in Cognitive Science, Computational Neuroscience
+                    Ph.D. in Cognitive Science, Computational Neuroscience <br />
+                    <b>Areas of Interest</b>: Brain-Computer Interface, Cognitive Sciences, Computational Neuroscience, Biological & Artificial Intelligence Alignment
                 </p>
             </div>
         </div>
