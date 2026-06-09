@@ -192,18 +192,6 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/thanaphon_suwannaphong.jpg" class="card-img-top" alt="thanaphon suwannaphong">
-            <div class="card-body">
-                <h5 class="card-title m-0">ธนาพร สุวรรณพงศ์ (ว่าน)</h5>
-                <p class="card-text">
-                    Thanaphon Suwannaphong<br/>
-                    Ph.D. in Engineering Mathematics, Applied Artificial Intelligence
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card staff-image-container">
             <img src="/img-staff/chayanon-kitkana.jpg" class="card-img-top" alt="chayanon kitkana">
             <div class="card-body">
                 <h5 class="card-title m-0">ชญานนท์ กิจคณะ (ชาลี)</h5>
