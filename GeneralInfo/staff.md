@@ -108,6 +108,18 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
+            <img src="/img-staff/oranatt-chaichanasittikarn.jpg" class="card-img-top" alt="">
+            <div class="card-body">
+                <h5 class="card-title m-0">อรณัฐ ชัยชนะสิทธิการ (กัส)</h5>
+                <p class="card-text">
+                    Oranatt Chaichanasittikarn<br/>
+                    Ph.D. candidate in Biomedical Engineering (Neural Engineering) 
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card staff-image-container">
             <img src="/img-staff/Korrawiz_Chotayapa.jpeg" class="card-img-top" alt="korrawiz chotayapa">
             <div class="card-body">
                 <h5 class="card-title m-0">กรวิชญ์ โชตยาภา (อ๋อง)</h5>
@@ -154,7 +166,7 @@
             </div>
         </div>
     </div>
-        <div class="col">
+    <div class="col">
         <div class="card staff-image-container">
             <img src="/img-staff/nithit-singtokum.jpg" class="card-img-top" alt="nithit singtokum">
             <div class="card-body">
