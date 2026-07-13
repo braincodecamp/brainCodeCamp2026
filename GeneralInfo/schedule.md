@@ -15,7 +15,7 @@
 
 :::{list-table}
 :header-rows: 1
-:widths: 5 10 15 25 30
+:widths: 5 10 20 25 30
 
 * - Week
   - Office Hour
@@ -25,73 +25,73 @@
   - การเตรียมตัว
 * - 1
   - 5 ส.ค. 2569
-  - **Brain Activation #1**
+  - **Brain Activation #1**<br>
     19:05-19:15
   - [Dimensionality Reduction](/Fundamentals/DimensionalityReduction/dim_reduct_intro.md)
   - 1. ทบทวนเนื้อหา Prerequisites โดยเฉพาะ [Intro to Modeling and Model Selection](/Prereqs/IntroToModeling/modeling_intro.md)
     2. ศึกษาเนื้อหา Dimensionality Reduction และทำการบ้าน
     3. ค้นหาไอเดียสำหรับทำโปรเจค [(Datasets)](/GeneralInfo/datasets.md)
 * - 2
-  - 13 ส.ค. 2569
+  - 13 ส.ค. 2569<br>
     **วันพฤหัส**
-  - **Brain Activation #2**
+  - **Brain Activation #2**<br>
     19:05-19:15
   - [Machine Learning 1](/Fundamentals/MachineLearning/ml_part1_intro.md)
   - 1. ศึกษาเนื้อหาส่วนที่ 1 ของบทเรียน Machine Learning (ML Part 1) และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 3
   - 19 ส.ค. 2569
-  - **Brain Activation #3**
-    19:05-19:15
-    **Project Idea Sharing #1**
-    (6 คน)
+  - **Brain Activation #3**<br>
+    19:05-19:15<br>
+    **Project Idea Sharing #1**<br>
+    (6 คน)<br>
     19:15-19:45
   - [Machine Learning 2](/Fundamentals/MachineLearning/ml_part2_intro.md)
   - 1. ศึกษาเนื้อหาส่วนที่ 2 ของบทเรียน Machine Learning (ML Part 2) และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 4
   - 26 ส.ค. 2569
-  - **Brain Activation #4**
-    19:05-19:15
-    **Project Idea Sharing #2**
-    (6 คน)
+  - **Brain Activation #4**<br>
+    19:05-19:15<br>
+    **Project Idea Sharing #2**<br>
+    (6 คน)<br>
     19:15-19:45
   - [Deep Learning](/Fundamentals/DeepLearning/deep_learning_intro.md)
   - 1. ศึกษาเนื้อหา Deep Learning และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 5
   - 2 ก.ย. 2569
-  - **Brain Activation #5**
-    19:05-19:15
-    **Project Idea Sharing #3**
-    (6 คน)
+  - **Brain Activation #5**<br>
+    19:05-19:15<br>
+    **Project Idea Sharing #3**<br>
+    (6 คน)<br>
     19:15-19:45
   - [Signal Processing](/Fundamentals/SignalProcessing/signal_processing_intro.md)
   - 1. ศึกษาเนื้อหา Signal Processing และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 6
   - 9 ก.ย. 2569
-  - **Brain Activation #6**
-    19:05-19:15
-    **Project Idea Sharing #4**
-    (6 คน)
+  - **Brain Activation #6**<br>
+    19:05-19:15<br>
+    **Project Idea Sharing #4**<br>
+    (6 คน)<br>
     19:15-19:45
   - Modality Exploration
   - 1. เลือกศึกษาเนื้อหา [EEG](ModalityExploration/EEG/eeg.md) หรือ [fMRI](ModalityExploration/fMRI/fMRI.md) หรือ [Spiking Data](ModalityExploration/spikingData/spiking_data.md) และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 7
   - 16 ก.ย. 2569
-  - **Project Idea Sharing #5**
-    (6 คน)
+  - **Project Idea Sharing #5**<br>
+    (6 คน)<br>
     19:05-19:35
   - Official Project Kick-off
   - เริ่มทำโปรเจคอย่างเป็นทางการ/เตรียมตัวอัพเดตสถานะการทำโปรเจค (หากมีการลงมือทำไปแล้ว)
 * - 8
-  - 20 ก.ย. 2569
+  - 20 ก.ย. 2569<br>
     **วันอาทิตย์**
   -
-  - On-Site Meetup
-    (**optional**)
+  - On-Site Meetup<br>
+    (**optional**)<br>
     [ข้อมูลเพิ่มเติม](/GeneralInfo/on-site-meetups.md)
   - สำหรับผู้ที่ร่วมงาน on-site สามารถเตรียมไอเดียมาแลกเปลี่ยนกับเพื่อน ๆ และผู้สอนได้ในงาน
 * - 9
@@ -118,7 +118,7 @@
 * - 13
   - 28 ต.ค. 2569
   -
-  - Project Completion
+  - Project Completion<br>
     [Final Presentation and Blog Post](/GeneralInfo/graduation_requirements.md)
   - 1. เตรียมตัวนำเสนอโปรเจค (Final presentation)
     2. เตรียมตัวส่งมอบ blog post บน [Medium](https://medium.com/) หรือบน [GitHub Pages](https://pages.github.com/)
