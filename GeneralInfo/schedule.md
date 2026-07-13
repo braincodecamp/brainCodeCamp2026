@@ -1,11 +1,13 @@
 # Schedule
 
-1. **งานปฐมนิเทศของโครงการ Brain Code Camp แบบ hybrid**
+1. **(Optional) งานปฐมนิเทศของโครงการ Brain Code Camp แบบ hybrid**
 
 - **วันที่**: 2 ส.ค. 2569 (วันอาทิตย์)
 - **เวลา**: 13:00-16:00
-- **สถานที่**: ห้อง 1205 ชั้น 12 ตึกภูมิสิริมังคลานุสรณ์ โรงพยาบาลจุฬาลงกรณ์ (สำหรับผู้ที่ไม่สะดวกเข้าร่วมงานแบบ on-site สามารถเข้าร่วมแบบ online ผ่าน Zoom)
+- **สถานที่**: ห้อง 1205 ชั้น 12 ตึกภูมิสิริมังคลานุสรณ์ โรงพยาบาลจุฬาลงกรณ์ (สำหรับผู้ที่ไม่สะดวกเข้าร่วมงานแบบ on-site สามารถเข้าร่วมงานบางส่วนแบบ online ผ่านช่องทางที่จะประกาศในภายหลัง)
 - **การแต่งกาย**: ไม่มี dress code
+- **หมายเหตุ**: หากมีข้อขัดข้องทางเทคนิคที่หน้างานที่ส่งผลให้ไม่สามารถเปิดช่องทางออนไลน์ได้ ทีมงานจะแจ้งให้ทราบผ่านทาง Discord ของโครงการ และจะจัด session สำหรับชี้แจงข้อมูลสำคัญเกี่ยวกับโครงการที่ท่านควรทราบในภายหลัง
+
 <!-- - <a href="/other-documents/bcc2026-orientation-schedule.pdf">ข้อมูลเพิ่มเติม</a> -->
 <!-- - <a href="/other-documents/20260802-BCC-orientation.pdf">ไฟล์นำเสนอ</a> -->
 
@@ -23,7 +25,8 @@
   - การเตรียมตัว
 * - 1
   - 5 ส.ค. 2569
-  - 
+  - **Brain Activation #1**
+    19:05-19:15
   - [Dimensionality Reduction](/Fundamentals/DimensionalityReduction/dim_reduct_intro.md)
   - 1. ทบทวนเนื้อหา Prerequisites โดยเฉพาะ [Intro to Modeling and Model Selection](/Prereqs/IntroToModeling/modeling_intro.md)
     2. ศึกษาเนื้อหา Dimensionality Reduction และทำการบ้าน
@@ -31,39 +34,48 @@
 * - 2
   - 13 ส.ค. 2569
     **วันพฤหัส**
-  -
+  - **Brain Activation #2**
+    19:05-19:15
   - [Machine Learning 1](/Fundamentals/MachineLearning/ml_part1_intro.md)
   - 1. ศึกษาเนื้อหาส่วนที่ 1 ของบทเรียน Machine Learning (ML Part 1) และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 3
   - 19 ส.ค. 2569
-  - **Project Idea Sharing #1**
+  - **Brain Activation #3**
+    19:05-19:15
+    **Project Idea Sharing #1**
     (6 คน)
-    19:05-19:35
+    19:15-19:45
   - [Machine Learning 2](/Fundamentals/MachineLearning/ml_part2_intro.md)
   - 1. ศึกษาเนื้อหาส่วนที่ 2 ของบทเรียน Machine Learning (ML Part 2) และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 4
   - 26 ส.ค. 2569
-  - **Project Idea Sharing #2**
+  - **Brain Activation #4**
+    19:05-19:15
+    **Project Idea Sharing #2**
     (6 คน)
-    19:05-19:35
+    19:15-19:45
   - [Deep Learning](/Fundamentals/DeepLearning/deep_learning_intro.md)
   - 1. ศึกษาเนื้อหา Deep Learning และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 5
   - 2 ก.ย. 2569
-  - **Project Idea Sharing #3**
+  - **Brain Activation #5**
+    19:05-19:15
+    **Project Idea Sharing #3**
     (6 คน)
-    19:05-19:35
+    19:15-19:45
   - [Signal Processing](/Fundamentals/SignalProcessing/signal_processing_intro.md)
   - 1. ศึกษาเนื้อหา Signal Processing และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 6
   - 9 ก.ย. 2569
-  - **Project Idea Sharing #4**
+  - **Brain Activation #6**
+    19:05-19:15
+    **Project Idea Sharing #4**
     (6 คน)
-    19:05-19:35
+    19:15-19:45
   - Modality Exploration
   - 1. เลือกศึกษาเนื้อหา [EEG](ModalityExploration/EEG/eeg.md) หรือ [fMRI](ModalityExploration/fMRI/fMRI.md) หรือ [Spiking Data](ModalityExploration/spikingData/spiking_data.md) และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
@@ -114,6 +126,8 @@
 
 \*ถ้าหากผู้เรียนมีไอเดียหรือเริ่มต้นทำโปรเจคก่อนเวลาที่ได้กำหนดไว้อย่างเป็นทางการใน schedule (ซึ่งกำหนดไว้ที่สัปดาห์ที่ 7) ผู้เรียนสามารถใช้เวลา office hours ในการพูดคุยเกี่ยวกับไอเดียหรือ project progress ได้เสมอ
  
+**Brain Activation**: Quiz สั้น ๆ เกี่ยวกับเนื้อหาที่ได้เรียนมา
+
 **Project Idea Sharing**: กิจกรรมสั้น ๆ ในช่วง Office Hour ที่เปิดโอกาสให้ผู้เข้าร่วม (สัปดาห์ละ 6 คน) ได้ลองเล่าเกี่ยวกับโปรเจคที่ตนเองกำลังสนใจหรือวางแผนจะทำ ไม่จำเป็นต้องเป็นไอเดียที่เสร็จสมบูรณ์ แต่เพื่อเป็นการแบ่งปันความคืบหน้า ให้แรงบันดาลใจแก่เพื่อน ๆ และช่วยให้ mentors เห็นภาพรวมของโปรเจคในโครงการ 
 - **นำเสนอไอเดียโปรเจค (3 นาที)** และ **รับฟัง comment จากเพื่อน ๆ และ TA (2 นาที)** โดยจะไม่ใช่การถามตอบแบบ Q&A (เพื่อลดความกดดันของผู้นำเสนอ)
 - ประโยชน์ของการมีส่วนร่วมในกิจกรรมนี้ คือ
