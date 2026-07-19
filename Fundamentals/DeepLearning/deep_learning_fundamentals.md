@@ -8,14 +8,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kIL6UqHfnA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Slides: From Machine Learning to Deep Learning](https://github.com/ichatnun/brainCodeCamp2023_lectures/blob/main/DeepLearning/deep_learning_ML2DL.pdf)
+[Slides: From Machine Learning to Deep Learning](https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/DeepLearning/deep_learning_ML2DL.pdf)
 <br>
 
 ## Fully Connected Layers, Activation Function, and Loss Function
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uREh-0Z6PRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Slides: Fully Connected Layers, Activation Function, and Loss Function](https://github.com/ichatnun/brainCodeCamp2023_lectures/blob/main/DeepLearning/deep_learning_dense_activation_loss.pdf)
+[Slides: Fully Connected Layers, Activation Function, and Loss Function](https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/DeepLearning/deep_learning_dense_activation_loss.pdf)
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qk2dgWUFt_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Slides: Optimization and Backpropagation](https://github.com/ichatnun/brainCodeCamp2023_lectures/blob/main/DeepLearning/deep_learning_opt_backprop_minibatch.pdf)
+[Slides: Optimization and Backpropagation](https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/DeepLearning/deep_learning_opt_backprop_minibatch.pdf)
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VokHdRv0yas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Slides: Regularization](https://github.com/ichatnun/brainCodeCamp2023_lectures/blob/main/DeepLearning/deep_learning_regularization.pdf)
+[Slides: Regularization](https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/DeepLearning/deep_learning_regularization.pdf)
 
 ในปัจจุบัน มี phenomena หลายอย่างที่น่าสนใจมาก เช่น [double descent](https://en.wikipedia.org/wiki/Double_descent) และ [grokking](https://arxiv.org/abs/2201.02177) ซึ่งอาจจะดูแปลกประหลาดในมุมมองของ classical statistical learning ทีมงานแนะนำให้ผู้เรียนไปลองศึกษา phenomena เหล่านี้เพิ่มเติมได้
 
@@ -41,7 +41,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jpw-CYQ0T0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Slides: Convolutional Neural Network (CNN)](https://github.com/ichatnun/brainCodeCamp2023_lectures/blob/main/DeepLearning/deep_learning_CNN.pdf)
+[Slides: Convolutional Neural Network (CNN)](https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/DeepLearning/deep_learning_CNN.pdf)
 
 <br>
 
