@@ -81,15 +81,15 @@ parts:
           - file: Prereqs/BBB2BCC/DataVisualization
           - file: Prereqs/BBB2BCC/Modeling
 
-      - file: Prereqs/IntroToModeling/modeling_front
-        sections:
-          - file: Prereqs/IntroToModeling/modeling_intro
-          - file: Prereqs/IntroToModeling/modeling_part1_simple_linear_model
-          - file: Prereqs/IntroToModeling/modeling_part2_poly_overfit_regularization
-          - file: Prereqs/IntroToModeling/modeling_part3_data_splitting
-          - file: Prereqs/IntroToModeling/modeling_outro
-
-  - caption: Dimensionality Reduction (Week 1)
+  - caption: Intro to Modeling and Model Selection (Week 1)
+    chapters:
+      - file: Fundamentals/IntroToModeling/modeling_intro
+      - file: Fundamentals/IntroToModeling/modeling_part1_simple_linear_model
+      - file: Fundamentals/IntroToModeling/modeling_part2_poly_overfit_regularization
+      - file: Fundamentals/IntroToModeling/modeling_part3_data_splitting
+      - file: Fundamentals/IntroToModeling/modeling_outro
+    
+  - caption: Dimensionality Reduction (Week 2)
     chapters:
       - file: Fundamentals/DimensionalityReduction/dim_reduct_intro
       - file: Fundamentals/DimensionalityReduction/dim_reduct_part1_basics
@@ -98,22 +98,22 @@ parts:
       - file: Fundamentals/DimensionalityReduction/dim_reduct_part4_nonlinear_methods
       - file: Fundamentals/DimensionalityReduction/dim_reduct_outro
 
-  - caption: Machine Learning (Weeks 2-3)
+  - caption: Machine Learning (Weeks 3-4)
     chapters:
       - file: Fundamentals/MachineLearning/ml_part1_intro
-        title: ML Part 1 (Week 2)
+        title: ML Part 1 (Week 3)
         sections:
           - file: Fundamentals/MachineLearning/intro_to_machine_learning
           - file: Fundamentals/MachineLearning/logistic_regression
           - file: Fundamentals/MachineLearning/svm
       - file: Fundamentals/MachineLearning/ml_part2_intro
-        title: ML Part 2 (Week 3)
+        title: ML Part 2 (Week 4)
         sections:
           - file: Fundamentals/MachineLearning/decision_tree_random_forest
           - file: Fundamentals/MachineLearning/knn
           - file: Fundamentals/MachineLearning/ml_part2_outro
 
-  - caption: Deep Learning (Week 4)
+  - caption: Deep Learning (Week 5)
     chapters:
       - file: Fundamentals/DeepLearning/deep_learning_intro
       - file: Fundamentals/DeepLearning/deep_learning_fundamentals
@@ -122,7 +122,7 @@ parts:
       - file: Fundamentals/DeepLearning/cnn_cdt_pytorch
       - file: Fundamentals/DeepLearning/deep_learning_outro
 
-  - caption: Signal Processing (Week 5)
+  - caption: Signal Processing (Week 6)
     chapters:
       - file: Fundamentals/SignalProcessing/signal_processing_intro
       - file: Fundamentals/SignalProcessing/signal_processing_part1_sampling_averaging
@@ -131,7 +131,7 @@ parts:
       - file: Fundamentals/SignalProcessing/signal_processing_part4_application
       - file: Fundamentals/SignalProcessing/signal_processing_outro
 
-  - caption: Modality Exploration (Weeks 6-8)
+  - caption: Modality Exploration (Week 7)
     chapters:
       - file: ModalityExploration/EEG/eeg
         title: EEG
@@ -146,7 +146,7 @@ parts:
         sections:
           - file: ModalityExploration/spikingData/spiking_data_processing_and_analysis
 
-  - caption: Applications (Weeks 9-13)
+  - caption: Applications (Weeks 8-13)
     chapters:
       - file: Applications/MiniProjects
 

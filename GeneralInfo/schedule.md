@@ -28,17 +28,16 @@
   - 5 ส.ค. 2569
   - **Brain Activation #1**<br>
     19:05-19:15
-  - [Dimensionality Reduction](/Fundamentals/DimensionalityReduction/dim_reduct_intro.md)
-  - 1. ทบทวนเนื้อหา Prerequisites โดยเฉพาะ [Intro to Modeling and Model Selection](/Prereqs/IntroToModeling/modeling_intro.md)
-    2. ศึกษาเนื้อหา Dimensionality Reduction และทำการบ้าน
-    3. ค้นหาไอเดียสำหรับทำโปรเจค [(Datasets)](/GeneralInfo/datasets.md)
+  - [Intro to Modeling and Model Selection](/Fundamentals/IntroToModeling/modeling_intro.md)
+  - 1. ศึกษาเนื้อหา Intro to Modeling and Model Selection
+    2. ค้นหาไอเดียสำหรับทำโปรเจค [(Datasets)](/GeneralInfo/datasets.md)
 * - 2
   - 13 ส.ค. 2569<br>
     **วันพฤหัส**
   - **Brain Activation #2**<br>
     19:05-19:15
-  - [Machine Learning 1](/Fundamentals/MachineLearning/ml_part1_intro.md)
-  - 1. ศึกษาเนื้อหาส่วนที่ 1 ของบทเรียน Machine Learning (ML Part 1) และทำการบ้าน
+  - [Dimensionality Reduction](/Fundamentals/DimensionalityReduction/dim_reduct_intro.md)
+  - 1. ศึกษาเนื้อหา Dimensionality Reduction และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 3
   - 19 ส.ค. 2569
@@ -47,8 +46,8 @@
     **Project Idea Sharing #1**<br>
     (6 คน)<br>
     19:15-19:45
-  - [Machine Learning 2](/Fundamentals/MachineLearning/ml_part2_intro.md)
-  - 1. ศึกษาเนื้อหาส่วนที่ 2 ของบทเรียน Machine Learning (ML Part 2) และทำการบ้าน
+  - [Machine Learning 1](/Fundamentals/MachineLearning/ml_part1_intro.md)
+  - 1. ศึกษาเนื้อหาส่วนที่ 1 ของบทเรียน Machine Learning (ML Part 1) และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 4
   - 26 ส.ค. 2569
@@ -57,8 +56,8 @@
     **Project Idea Sharing #2**<br>
     (6 คน)<br>
     19:15-19:45
-  - [Deep Learning](/Fundamentals/DeepLearning/deep_learning_intro.md)
-  - 1. ศึกษาเนื้อหา Deep Learning และทำการบ้าน
+  - [Machine Learning 2](/Fundamentals/MachineLearning/ml_part2_intro.md)
+  - 1. ศึกษาเนื้อหาส่วนที่ 2 ของบทเรียน Machine Learning (ML Part 2) และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 5
   - 2 ก.ย. 2569
@@ -67,8 +66,8 @@
     **Project Idea Sharing #3**<br>
     (6 คน)<br>
     19:15-19:45
-  - [Signal Processing](/Fundamentals/SignalProcessing/signal_processing_intro.md)
-  - 1. ศึกษาเนื้อหา Signal Processing และทำการบ้าน
+  - [Deep Learning](/Fundamentals/DeepLearning/deep_learning_intro.md)
+  - 1. ศึกษาเนื้อหา Deep Learning และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 6
   - 9 ก.ย. 2569
@@ -77,16 +76,17 @@
     **Project Idea Sharing #4**<br>
     (6 คน)<br>
     19:15-19:45
-  - Modality Exploration
-  - 1. เลือกศึกษาเนื้อหา [EEG](ModalityExploration/EEG/eeg.md) หรือ [fMRI](ModalityExploration/fMRI/fMRI.md) หรือ [Spiking Data](ModalityExploration/spikingData/spiking_data.md) และทำการบ้าน
+  - [Signal Processing](/Fundamentals/SignalProcessing/signal_processing_intro.md)
+  - 1. ศึกษาเนื้อหา Signal Processing และทำการบ้าน
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 7
   - 16 ก.ย. 2569
   - **Project Idea Sharing #5**<br>
     (6 คน)<br>
     19:05-19:35
-  - Official Project Kick-off
-  - เริ่มทำโปรเจคอย่างเป็นทางการ/เตรียมตัวอัพเดตสถานะการทำโปรเจค (หากมีการลงมือทำไปแล้ว)
+  - Modality Exploration & Official Project Kick-off
+  - 1. เลือกศึกษาเนื้อหา [EEG](ModalityExploration/EEG/eeg.md) หรือ [fMRI](ModalityExploration/fMRI/fMRI.md) หรือ [Spiking Data](ModalityExploration/spikingData/spiking_data.md) และทำการบ้าน
+    2. เริ่มทำโปรเจคอย่างเป็นทางการ/เตรียมตัวอัพเดตสถานะการทำโปรเจค (หากมีการลงมือทำไปแล้ว)
 * - 8
   - 20 ก.ย. 2569<br>
     **วันอาทิตย์**
@@ -98,7 +98,7 @@
 * - 9
   - 30 ก.ย. 2569
   -
-  - - ทำความรู้จักกับสมาชิกกลุ่มใหม่
+  - - ทำความรู้จักกับสมาชิกกลุ่มใหม่ (หากมีการเปลี่ยนกลุ่ม)
     - Project Progress
   - เตรียมตัวอัพเดตสถานะของการทำโปรเจค
 * - 10
