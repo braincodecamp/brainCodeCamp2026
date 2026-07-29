@@ -37,7 +37,7 @@
   - **Brain Activation #2**<br>
     19:05-19:15
   - [Dimensionality Reduction](/Fundamentals/DimensionalityReduction/dim_reduct_intro.md)
-  - 1. ศึกษาเนื้อหา Dimensionality Reduction และทำการบ้าน
+  - 1. ศึกษาเนื้อหา Dimensionality Reduction
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 3
   - 19 ส.ค. 2569
@@ -47,7 +47,7 @@
     (6 คน)<br>
     19:15-19:45
   - [Machine Learning 1](/Fundamentals/MachineLearning/ml_part1_intro.md)
-  - 1. ศึกษาเนื้อหาส่วนที่ 1 ของบทเรียน Machine Learning (ML Part 1) และทำการบ้าน
+  - 1. ศึกษาเนื้อหาส่วนที่ 1 ของบทเรียน Machine Learning (ML Part 1)
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 4
   - 26 ส.ค. 2569
@@ -57,7 +57,7 @@
     (6 คน)<br>
     19:15-19:45
   - [Machine Learning 2](/Fundamentals/MachineLearning/ml_part2_intro.md)
-  - 1. ศึกษาเนื้อหาส่วนที่ 2 ของบทเรียน Machine Learning (ML Part 2) และทำการบ้าน
+  - 1. ศึกษาเนื้อหาส่วนที่ 2 ของบทเรียน Machine Learning (ML Part 2)
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 5
   - 2 ก.ย. 2569
@@ -67,7 +67,7 @@
     (6 คน)<br>
     19:15-19:45
   - [Deep Learning](/Fundamentals/DeepLearning/deep_learning_intro.md)
-  - 1. ศึกษาเนื้อหา Deep Learning และทำการบ้าน
+  - 1. ศึกษาเนื้อหา Deep Learning
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 6
   - 9 ก.ย. 2569
@@ -77,7 +77,7 @@
     (6 คน)<br>
     19:15-19:45
   - [Signal Processing](/Fundamentals/SignalProcessing/signal_processing_intro.md)
-  - 1. ศึกษาเนื้อหา Signal Processing และทำการบ้าน
+  - 1. ศึกษาเนื้อหา Signal Processing
     2. ค้นหาไอเดียสำหรับทำโปรเจค/ลงมือทำโปรเจค (ถ้าพร้อม)*
 * - 7
   - 16 ก.ย. 2569
@@ -85,8 +85,8 @@
     (6 คน)<br>
     19:05-19:35
   - Modality Exploration & Official Project Kick-off
-  - 1. เลือกศึกษาเนื้อหา [EEG](ModalityExploration/EEG/eeg.md) หรือ [fMRI](ModalityExploration/fMRI/fMRI.md) หรือ [Spiking Data](ModalityExploration/spikingData/spiking_data.md) และทำการบ้าน
-    2. เริ่มทำโปรเจคอย่างเป็นทางการ/เตรียมตัวอัพเดตสถานะการทำโปรเจค (หากมีการลงมือทำไปแล้ว)
+  - 1. เลือกศึกษาเนื้อหา [EEG](ModalityExploration/EEG/eeg.md) หรือ [fMRI](ModalityExploration/fMRI/fMRI.md) หรือ [Spiking Data](ModalityExploration/spikingData/spiking_data.md)
+    2. เริ่มทำโปรเจคอย่างเป็นทางการ เตรียมตัวเล่าเกี่ยวกับหัวข้อโปรเจคและชุดข้อมูลที่จะใช้
 * - 8
   - 20 ก.ย. 2569<br>
     **วันอาทิตย์**
@@ -94,28 +94,28 @@
   - On-Site Meetup<br>
     (**optional**)<br>
     [ข้อมูลเพิ่มเติม](/GeneralInfo/on-site-meetups.md)
-  - สำหรับผู้ที่ร่วมงาน on-site สามารถเตรียมไอเดียมาแลกเปลี่ยนกับเพื่อน ๆ และผู้สอนได้ในงาน
+  - หยุดพักผ่อน
 * - 9
   - 30 ก.ย. 2569
   -
   - - ทำความรู้จักกับสมาชิกกลุ่มใหม่ (หากมีการเปลี่ยนกลุ่ม)
-    - Project Progress
-  - เตรียมตัวอัพเดตสถานะของการทำโปรเจค
+    - Project Progress 1
+  - เตรียมตัวอัพเดตสถานะของการทำโปรเจค (ควรมีแผนการทดลองที่ชัดเจนแล้ว)
 * - 10
   - 7 ต.ค. 2569
   -
-  - Project Progress
+  - Project Progress 2
   - เตรียมตัวอัพเดตสถานะของการทำโปรเจค
 * - 11
   - 14 ต.ค. 2569
   -
-  - Project Progress
-  - เตรียมตัวอัพเดตสถานะของการทำโปรเจค
+  - Project Progress 3
+  - เตรียมตัวอัพเดตสถานะของการทำโปรเจค (ควรมี preliminary results แล้ว)
 * - 12
   - 21 ต.ค. 2569
   -
-  - Project Progress
-  - เตรียมตัวอัพเดตสถานะของการทำโปรเจค
+  - Project Progress 4
+  - เตรียมตัวอัพเดตสถานะของการทำโปรเจค (ควรมีผลการทดลองแล้ว)
 * - 13
   - 28 ต.ค. 2569
   -
