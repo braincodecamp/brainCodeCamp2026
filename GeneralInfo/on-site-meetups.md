@@ -11,7 +11,7 @@
 - **จุดประสงค์**
   - ให้ข้อมูลและถามตอบข้อสงสัยเกี่ยวกับโครงการ
   - เปิดโอกาสให้ผู้เข้าร่วมกิจกรรมทั้งหมดได้ทำความรู้จักกัน
-- **กิจกรรม** (<a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/cb0e50fb473d3c7e3b3ffd20698cc30123dc2706/OrientationMaterials/bcc2026-orientation-schedule.pdf" target="_blank">กำหนดการ</a> และ <a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/cb0e50fb473d3c7e3b3ffd20698cc30123dc2706/OrientationMaterials/bcc2026-orientation.pdf" target="_blank">ไฟล์นำเสนอ</a>)
+- **กิจกรรม** (<a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/cb0e50fb473d3c7e3b3ffd20698cc30123dc2706/OrientationMaterials/bcc2026-orientation-schedule.pdf" target="_blank">กำหนดการ</a> และ <a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/b42617aa824aed1ee0256b900c111cc902627341/OrientationMaterials/bcc2026-orientation-slides.pdf" target="_blank">ไฟล์นำเสนอ</a>)
   - แนะนำตัวผู้สอนและผู้เรียน
   - ให้ข้อมูลทั่วไปเกี่ยวกับโครงการ
   - ถามตอบข้อสงสัย
