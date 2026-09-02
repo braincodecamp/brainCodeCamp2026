@@ -17,6 +17,8 @@
 
 [Slides: Fully Connected Layers, Activation Function, and Loss Function](https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/DeepLearning/deep_learning_dense_activation_loss.pdf)
 
+ใครที่สนใจทำความเข้าใจเกี่ยวกับ Cross-Entropy (และความสัมพันธ์กับ KL divergence ที่มักถูกใช้ในการเปรียบเทียบ probability distribution 2 อัน ว่ามีความต่างกันมากน้อยแค่ไหน) สามารถศึกษาเพิ่มเติมได้ที่ [The Key Equation Behind Probability](https://youtu.be/KHVR587oW8I?si=kcK-XmOTaAOwazvL&t=616)
+
 <br>
 
 ## (Optional) Optimization and Backpropagation
@@ -24,6 +26,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qk2dgWUFt_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Slides: Optimization and Backpropagation](https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/DeepLearning/deep_learning_opt_backprop_minibatch.pdf)
+
+
 
 <br>
 
