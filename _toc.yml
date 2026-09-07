@@ -141,6 +141,7 @@ parts:
         title: fMRI
         sections:
           - file: ModalityExploration/fMRI/fMRI_preprocessing
+          - file: ModalityExploration/fMRI/fMRI_as_graph
       - file: ModalityExploration/spikingData/spiking_data
         title: Spiking Data
         sections:
