@@ -6,8 +6,8 @@
 - **เวลา**: 13:00-16:30 (เริ่มลงทะเบียนเข้างาน 12:30น.)
 - **สถานที่**: ห้อง 1205 ชั้น 12 ตึกภูมิสิริมังคลานุสรณ์ โรงพยาบาลจุฬาลงกรณ์ (สำหรับผู้ที่ไม่สะดวกเข้าร่วมงานแบบ on-site สามารถเข้าร่วมงานบางส่วนแบบ online ผ่านช่องทางที่จะประกาศในภายหลัง)
 - **การแต่งกาย**: ไม่มี dress code
-- <a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/cb0e50fb473d3c7e3b3ffd20698cc30123dc2706/OrientationMaterials/bcc2026-orientation-schedule.pdf" target="_blank">กำหนดการ</a>
-- <a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/b42617aa824aed1ee0256b900c111cc902627341/OrientationMaterials/bcc2026-orientation-slides.pdf" target="_blank">ไฟล์นำเสนอ</a>
+- <a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/OrientationMaterials/bcc2026-orientation-schedule.pdf" target="_blank">กำหนดการ</a>
+- <a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/OrientationMaterials/bcc2026-orientation-slides.pdf" target="_blank">ไฟล์นำเสนอ</a>
 - **หมายเหตุ**: หากมีข้อขัดข้องทางเทคนิคที่หน้างานที่ส่งผลให้ไม่สามารถเปิดช่องทางออนไลน์ได้ ทีมงานจะแจ้งให้ทราบผ่านทาง Discord ของโครงการ และจะจัด session สำหรับชี้แจงข้อมูลสำคัญเกี่ยวกับโครงการที่ท่านควรทราบในภายหลัง
 
 2. **Office Hours (OH)**

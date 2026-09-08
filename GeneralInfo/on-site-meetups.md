@@ -11,7 +11,7 @@
 - **จุดประสงค์**
   - ให้ข้อมูลและถามตอบข้อสงสัยเกี่ยวกับโครงการ
   - เปิดโอกาสให้ผู้เข้าร่วมกิจกรรมทั้งหมดได้ทำความรู้จักกัน
-- **กิจกรรม** (<a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/cb0e50fb473d3c7e3b3ffd20698cc30123dc2706/OrientationMaterials/bcc2026-orientation-schedule.pdf" target="_blank">กำหนดการ</a> และ <a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/b42617aa824aed1ee0256b900c111cc902627341/OrientationMaterials/bcc2026-orientation-slides.pdf" target="_blank">ไฟล์นำเสนอ</a>)
+- **กิจกรรม** (<a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/OrientationMaterials/bcc2026-orientation-schedule.pdf" target="_blank">กำหนดการ</a> และ <a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/OrientationMaterials/bcc2026-orientation-slides.pdf" target="_blank">ไฟล์นำเสนอ</a>)
   - แนะนำตัวผู้สอนและผู้เรียน
   - ให้ข้อมูลทั่วไปเกี่ยวกับโครงการ
   - ถามตอบข้อสงสัย
@@ -23,13 +23,13 @@
 
 - **วันที่**: 20 ก.ย. 2569 (วันอาทิตย์)
 - **เวลา**: 13:00-16:00 (เริ่มลงทะเบียนเข้างาน 12:30น.)
-- **สถานที่**: ห้อง 1205 ชั้น 12 ตึกภูมิสิริมังคลานุสรณ์ โรงพยาบาลจุฬาลงกรณ์
+- **สถานที่**: ห้อง 1205 ชั้น 12 ตึกภูมิสิริมังคลานุสรณ์ โรงพยาบาลจุฬาลงกรณ์ (สำหรับผู้ที่ไม่สะดวกเข้าร่วมงานแบบ on-site สามารถเข้าร่วมแบบ online ผ่านช่องทางที่จะประกาศในภายหลัง)
 - **การแต่งกาย**: ไม่มี dress code
 - **จุดประสงค์**
   - เปิดโอกาสให้ผู้ร่วมกิจกรรมทั้งหมดได้ทำความรู้จักกันมากขึ้น
   - เปิดโอกาสให้ผู้เรียนได้พูดคุยแลกเปลี่ยนความรู้ ค้นหาและแลกเปลี่ยนไอเดียของโปรเจคที่สนใจ กับผู้สอนและผู้เรียนคนอื่น ซึ่งจะมีผลต่อการจัดกลุ่มใหม่ในช่วงท้ายของโครงการ
   - รับ feedbacks จากผู้เรียน เพื่อใช้ปรับปรุงกิจกรรม
-- **กิจกรรม** (<a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/8d4b01930500832d5977c0739e29464b19c2fe68/MidProgramOnsiteMeetup/bcc2026-mid-program-on-site-meetup.pdf" target="_blank">กำหนดการ</a>)
+- **กิจกรรม** (<a href="https://github.com/braincodecamp/brain-code-camp-2026-lectures/blob/main/MidProgramOnsiteMeetup/bcc2026-mid-program-on-site-meetup.pdf" target="_blank">กำหนดการ</a>)
   - ประชาสัมพันธ์กิจกรรมของโครงการ BrainCode101 และ Q&A เกี่ยวกับโครงการ
   - ทำกิจกรรมร่วมกัน เพื่อทำความรู้จัก สร้างความสนิทสนมกันมากขึ้น
 
